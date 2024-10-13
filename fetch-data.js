@@ -18,6 +18,5 @@ async function fetchUserData(params) {
     dataContainer.innerHTML = "Failed to load user data.";
   }
 }
-document.addEventListener.DOMContentLoaded;
-fetchUserData(params)
 
+fetchUserData(addEventListener("DOMContentLoaded", (event) => {}));
